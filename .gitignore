@@ -16,3 +16,7 @@ frontend/node_modules
 frontend/.next
 backend/.next
 
+# ENV files
+frontend/.env.local
+backend/.env
+
